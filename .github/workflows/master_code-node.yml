@@ -32,4 +32,4 @@ jobs:
         app-name: 'code-node'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_ab184a1513a74c0bac000ad47c8cd758 }}
-        package: .
+        
